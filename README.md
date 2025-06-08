@@ -50,4 +50,7 @@ The app will be available at [http://localhost:5173](http://localhost:5173) (or 
 * `App.jsx` – Root component
 * `vite.config.js` – Vite configuration
 
+## UI Samples
+[text](https://ibb.co/8D3Q8vRj)
+[text](https://ibb.co/HTRjg1g6)
 ---
