@@ -51,6 +51,6 @@ The app will be available at [http://localhost:5173](http://localhost:5173) (or 
 * `vite.config.js` – Vite configuration
 
 ## UI Samples
-[text](https://ibb.co/8D3Q8vRj)
-[text](https://ibb.co/HTRjg1g6)
+[![dashboard chats](https://i.ibb.co/fYRT06KC/Screenshot-from-2025-06-09-00-19-50.png)](https://ibb.co/8D3Q8vRj)
+[![dashboard chats](https://i.ibb.co/Xx6qJNJ1/Screenshot-from-2025-06-09-00-22-50.png)](https://ibb.co/HTRjg1g6)
 ---
